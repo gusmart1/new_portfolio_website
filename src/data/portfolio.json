@@ -45,6 +45,25 @@
     "description": "Travel app inspired by noctourism. Explore nightlight by maps or curated journeys featuring multiple destinations. Use your AR camera to explore the night sky.",
     "thumbnail": "Lunascape.jpg",
     "course": "User Experience in Design"
+  },
+
+  {
+    "id": 6,
+    "title": "Synecdoche Font",
+    "created": 2026,
+    "medium": "Adobe Illustrator and Glyphs 3",
+    "description": "Synecdoche is a neo grotesque typeface designed for usability and legibility. The font is based off of simple geometric forms with minimal contrast to create a bold readable typeface. The font is designed to work great in both large and small point size. Synecdoche is clean and modern inspired by classic swiss design.",
+    "thumbnail": "Type_Specimen_Book.jpg",
+    "course": "Advanced Typography"
+  },
+  {
+    "id": 7,
+    "title": "Zumbro Packaging",
+    "created": 2026,
+    "medium": "Adobe Illustrator",
+    "description": "Playful and fun Spaghetti packaging for a fiction Minnesota brand focused on quality ingredients. Features a die-cut tomato on the front to showcase the spaghetti.",
+    "thumbnail": "Zumbro.jpg",
+    "course": "Packaging and Display"
   }
 
 ]
