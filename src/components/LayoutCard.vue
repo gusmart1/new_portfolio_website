@@ -12,7 +12,7 @@ const props = defineProps({
 <template>
   <div class="layout-card">
     <section class="picture">
-      <img :src="`./src/assets/${image}`" />
+      <img :src="image" :alt="title" />
     </section>
     <section class="info">
       <h1 class="title">{{ title }}</h1>
